@@ -48,6 +48,9 @@ This is an Android Currency Converter application built using Kotlin. It allows 
 
 This application uses a currency conversion API(getgeoapi) that provides real-time exchange rates. Visit https://currency.getgeoapi.com for access to this API KEY.
 
+## UI Design Resources
+Visit: https://www.figma.com/design/4WibmPbXNhiYxY1h7y4adc/UI-Design?node-id=0-1&t=DErnTCk2CjVyqcia-1
+
 ## Future Enhancements
 
 - **Push notifications** to alert users when there are significant changes in exchange rates.
